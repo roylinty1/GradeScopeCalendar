@@ -57,6 +57,13 @@ assignments = {
       "dueDate": "2023-09-14T09:00:00",
       "link": "https://www.gradescope.com/courses/563079/assignments/3301562/submissions/192320832",
       "submitted": true
+    },
+    {
+      "title": "Optional: Project proposal",
+      "course": "IEOR 166",
+      "dueDate": "2023-09-22T14:03:00",
+      "link": "https://www.gradescope.com/courses/563079",
+      "submitted": false
     }
   ],
   "INDENG 174": [
