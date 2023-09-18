@@ -101,6 +101,20 @@ assignments = {
       "dueDate": "2023-12-16T23:00:00",
       "link": "https://www.gradescope.com/courses/585118",
       "submitted": false
+    },
+    {
+      "title": "Assignment 1, Deliverable 2 (report)",
+      "course": "INDENG 174",
+      "dueDate": "2023-09-28T23:00:00",
+      "link": "https://www.gradescope.com/courses/585118",
+      "submitted": false
+    },
+    {
+      "title": "Assignment 1, Deliverable 2 (code)",
+      "course": "INDENG 174",
+      "dueDate": "2023-09-28T23:00:00",
+      "link": "https://www.gradescope.com/courses/585118",
+      "submitted": false
     }
   ]
 };
