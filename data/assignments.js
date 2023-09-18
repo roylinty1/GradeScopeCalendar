@@ -11,7 +11,7 @@ assignments = {
       "title": "Project 1",
       "course": "DATA 88E",
       "dueDate": "2023-09-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/573841/assignments/3219308/submissions/192793274",
+      "link": "https://www.gradescope.com/courses/573841/assignments/3219308/submissions/194279576",
       "submitted": true
     },
     {
@@ -25,7 +25,7 @@ assignments = {
       "title": "Lab 3",
       "course": "DATA 88E",
       "dueDate": "2023-09-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/573841/assignments/3328022/submissions/193825819",
+      "link": "https://www.gradescope.com/courses/573841/assignments/3328022/submissions/194261296",
       "submitted": true
     }
   ],
