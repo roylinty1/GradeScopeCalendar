@@ -1,136 +1,106 @@
 assignments = {
-  "COMPSCI 164-LEC-001": [
+  "DATA 88E": [
     {
-      "title": "hw0",
-      "course": "COMPSCI 164-LEC-001",
-      "dueDate": "2023-08-31T21:00:00",
-      "link": "https://www.gradescope.com/courses/572216/assignments/3079267/submissions/188466880",
+      "title": "Lab 1",
+      "course": "DATA 88E",
+      "dueDate": "2023-09-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/573841/assignments/3219307/submissions/190481622",
       "submitted": true
     },
     {
-      "title": "Drill 1",
-      "course": "COMPSCI 164-LEC-001",
-      "dueDate": "2023-08-31T21:00:00",
-      "link": "https://www.gradescope.com/courses/572216/assignments/3092782/submissions/188472050",
+      "title": "Project 1",
+      "course": "DATA 88E",
+      "dueDate": "2023-09-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/573841/assignments/3219308/submissions/192793274",
       "submitted": true
     },
     {
-      "title": "hw1",
-      "course": "COMPSCI 164-LEC-001",
-      "dueDate": "2023-09-14T21:00:00",
-      "link": "https://www.gradescope.com/courses/572216/assignments/3207450/submissions/192232186",
+      "title": "Lab 2",
+      "course": "DATA 88E",
+      "dueDate": "2023-09-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/573841/assignments/3272278/submissions/192212468",
       "submitted": true
     },
     {
-      "title": "Drill 2",
-      "course": "COMPSCI 164-LEC-001",
-      "dueDate": "2023-09-07T21:00:00",
-      "link": "https://www.gradescope.com/courses/572216/assignments/3208606/submissions/190301789",
-      "submitted": true
-    },
-    {
-      "title": "Drill 3",
-      "course": "COMPSCI 164-LEC-001",
-      "dueDate": "2023-09-14T21:00:00",
-      "link": "https://www.gradescope.com/courses/572216/assignments/3283256/submissions/192093313",
-      "submitted": true
-    },
-    {
-      "title": "hw2-written",
-      "course": "COMPSCI 164-LEC-001",
-      "dueDate": "2023-09-21T21:00:00",
-      "link": "https://www.gradescope.com/courses/572216/assignments/3327431/submissions/new",
-      "submitted": false
-    },
-    {
-      "title": "hw2-code",
-      "course": "COMPSCI 164-LEC-001",
-      "dueDate": "2023-09-21T21:00:00",
-      "link": "https://www.gradescope.com/courses/572216",
-      "submitted": false
-    }
-  ],
-  "CS 180/280A": [
-    {
-      "title": "Project 1 - Colorizing the Prokudin-Gorskii Photo Collection",
-      "course": "CS 180/280A",
-      "dueDate": "2023-09-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/581661/assignments/3186346/submissions/189914303",
-      "submitted": true
-    },
-    {
-      "title": "Project 2 - Fun with Filters and Frequencies",
-      "course": "CS 180/280A",
-      "dueDate": "2023-09-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/581661/assignments/3186347/submissions/193824849",
+      "title": "Lab 3",
+      "course": "DATA 88E",
+      "dueDate": "2023-09-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/573841/assignments/3328022/submissions/193825819",
       "submitted": true
     }
   ],
-  "CS 189/289A": [
+  "IEOR 166": [
     {
-      "title": "HW 1 Code",
-      "course": "CS 189/289A",
-      "dueDate": "2023-09-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/575262/assignments/3184862/submissions/191544416",
+      "title": "PS 1",
+      "course": "IEOR 166",
+      "dueDate": "2023-08-31T09:00:00",
+      "link": "https://www.gradescope.com/courses/563079/assignments/3193188/submissions/188713746",
       "submitted": true
     },
     {
-      "title": "HW 1 Written",
-      "course": "CS 189/289A",
-      "dueDate": "2023-09-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/575262/assignments/3192847/submissions/191597948",
+      "title": "PS 2",
+      "course": "IEOR 166",
+      "dueDate": "2023-09-07T09:00:00",
+      "link": "https://www.gradescope.com/courses/563079/assignments/3248903/submissions/190446431",
       "submitted": true
     },
     {
-      "title": "HW 2 Written",
-      "course": "CS 189/289A",
-      "dueDate": "2023-09-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/575262",
-      "submitted": false
+      "title": "Assignment 3B",
+      "course": "IEOR 166",
+      "dueDate": "2023-09-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/563079/assignments/3254945/submissions/193841579",
+      "submitted": true
     },
     {
-      "title": "HW 2 Code",
-      "course": "CS 189/289A",
-      "dueDate": "2023-09-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/575262",
-      "submitted": false
+      "title": "Assignment 3A",
+      "course": "IEOR 166",
+      "dueDate": "2023-09-14T09:00:00",
+      "link": "https://www.gradescope.com/courses/563079/assignments/3301562/submissions/192320832",
+      "submitted": true
     }
   ],
-  "CS198-008": [
+  "INDENG 174": [
     {
-      "title": "Lab 01",
-      "course": "CS198-008",
-      "dueDate": "2023-09-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/572351/assignments/3255167/submissions/190953989",
+      "title": "Assignment 1, Deliverable 1 (report)",
+      "course": "INDENG 174",
+      "dueDate": "2023-09-14T23:00:00",
+      "link": "https://www.gradescope.com/courses/585118/assignments/3242317/submissions/192418590",
       "submitted": true
     },
     {
-      "title": "Vitamin 1",
-      "course": "CS198-008",
-      "dueDate": "2023-09-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/572351/assignments/3264956/submissions/190653419",
+      "title": "Assignment 1, Deliverable 1 (code)",
+      "course": "INDENG 174",
+      "dueDate": "2023-09-14T23:00:00",
+      "link": "https://www.gradescope.com/courses/585118/assignments/3255784/submissions/192015767",
       "submitted": true
     },
     {
-      "title": "Lab 02",
-      "course": "CS198-008",
-      "dueDate": "2023-09-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/572351/assignments/3310726/submissions/192232735",
-      "submitted": true
+      "title": "Project Proposal",
+      "course": "INDENG 174",
+      "dueDate": "2023-10-05T23:00:00",
+      "link": "https://www.gradescope.com/courses/585118",
+      "submitted": false
     },
     {
-      "title": "Vitamin 2",
-      "course": "CS198-008",
-      "dueDate": "2023-09-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/572351/assignments/3316849/submissions/192554276",
-      "submitted": true
+      "title": "Project Progress report",
+      "course": "INDENG 174",
+      "dueDate": "2023-11-02T23:00:00",
+      "link": "https://www.gradescope.com/courses/585118",
+      "submitted": false
     },
     {
-      "title": "Lab 03",
-      "course": "CS198-008",
-      "dueDate": "2023-09-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/572351/assignments/3321098/submissions/193825423",
-      "submitted": true
+      "title": "Project Draft Report",
+      "course": "INDENG 174",
+      "dueDate": "2023-11-27T23:00:00",
+      "link": "https://www.gradescope.com/courses/585118",
+      "submitted": false
+    },
+    {
+      "title": "Project Final Report",
+      "course": "INDENG 174",
+      "dueDate": "2023-12-16T23:00:00",
+      "link": "https://www.gradescope.com/courses/585118",
+      "submitted": false
     }
   ]
 };
