@@ -82,14 +82,14 @@ assignments = {
   ],
   "INDENG 174": [
     {
-      "title": "Assignment 1, Deliverable 1 (report)",
+      "title": "Assignment 1, Deliverable 1 (report+pdf of your code)",
       "course": "INDENG 174",
       "dueDate": "2023-09-14T23:00:00",
       "link": "https://www.gradescope.com/courses/585118/assignments/3242317/submissions/192418590",
       "submitted": true
     },
     {
-      "title": "Assignment 1, Deliverable 1 (code)",
+      "title": "Assignment 1, Deliverable 1 (.ipynb code)",
       "course": "INDENG 174",
       "dueDate": "2023-09-14T23:00:00",
       "link": "https://www.gradescope.com/courses/585118/assignments/3255784/submissions/192015767",
@@ -124,14 +124,14 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Assignment 1, Deliverable 2 (report)",
+      "title": "Assignment 1, Deliverable 2 (report+pdf of your code)",
       "course": "INDENG 174",
       "dueDate": "2023-09-28T23:00:00",
       "link": "https://www.gradescope.com/courses/585118",
       "submitted": false
     },
     {
-      "title": "Assignment 1, Deliverable 2 (code)",
+      "title": "Assignment 1, Deliverable 2 (.ipynb code)",
       "course": "INDENG 174",
       "dueDate": "2023-09-28T23:00:00",
       "link": "https://www.gradescope.com/courses/585118",
