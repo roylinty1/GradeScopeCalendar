@@ -32,8 +32,8 @@ assignments = {
       "title": "Lab 4",
       "course": "DATA 88E",
       "dueDate": "2023-09-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/573841",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/573841/assignments/3376528/submissions/196983695",
+      "submitted": true
     },
     {
       "title": "Project 2",
@@ -127,15 +127,15 @@ assignments = {
       "title": "Assignment 1, Deliverable 2 (report+pdf of your code)",
       "course": "INDENG 174",
       "dueDate": "2023-09-28T23:00:00",
-      "link": "https://www.gradescope.com/courses/585118",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/585118/assignments/3352675/submissions/196985348",
+      "submitted": true
     },
     {
       "title": "Assignment 1, Deliverable 2 (.ipynb code)",
       "course": "INDENG 174",
       "dueDate": "2023-09-28T23:00:00",
-      "link": "https://www.gradescope.com/courses/585118",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/585118/assignments/3352681/submissions/196985581",
+      "submitted": true
     }
   ]
 };
