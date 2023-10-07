@@ -53,8 +53,8 @@ assignments = {
       "title": "Lab 6",
       "course": "DATA 88E",
       "dueDate": "2023-10-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/573841",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/573841/assignments/3472866/submissions/200359512",
+      "submitted": true
     }
   ],
   "IEOR 166": [
