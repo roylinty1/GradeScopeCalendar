@@ -55,6 +55,20 @@ assignments = {
       "dueDate": "2023-10-10T23:59:00",
       "link": "https://www.gradescope.com/courses/573841/assignments/3472866/submissions/200359512",
       "submitted": true
+    },
+    {
+      "title": "Project 3",
+      "course": "DATA 88E",
+      "dueDate": "2023-10-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/573841",
+      "submitted": false
+    },
+    {
+      "title": "Lab 7",
+      "course": "DATA 88E",
+      "dueDate": "2023-10-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/573841",
+      "submitted": false
     }
   ],
   "IEOR 166": [
@@ -169,15 +183,15 @@ assignments = {
       "title": "Assignment 1, Deliverable 3 (report+pdf of your code)",
       "course": "INDENG 174",
       "dueDate": "2023-10-12T23:00:00",
-      "link": "https://www.gradescope.com/courses/585118",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/585118/assignments/3470275/submissions/201652218",
+      "submitted": true
     },
     {
       "title": "Assignment 1, Deliverable 3 (.ipynb code)",
       "course": "INDENG 174",
       "dueDate": "2023-10-12T23:00:00",
-      "link": "https://www.gradescope.com/courses/585118",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/585118/assignments/3470293/submissions/201652593",
+      "submitted": true
     }
   ]
 };
