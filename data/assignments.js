@@ -183,7 +183,7 @@ assignments = {
       "title": "Assignment 1, Deliverable 3 (report+pdf of your code)",
       "course": "INDENG 174",
       "dueDate": "2023-10-12T23:00:00",
-      "link": "https://www.gradescope.com/courses/585118/assignments/3470275/submissions/201652218",
+      "link": "https://www.gradescope.com/courses/585118/assignments/3470275/submissions/201805894",
       "submitted": true
     },
     {
