@@ -60,8 +60,8 @@ assignments = {
       "title": "Project 3",
       "course": "DATA 88E",
       "dueDate": "2023-10-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/573841",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/573841/assignments/3511726/submissions/207922632",
+      "submitted": true
     },
     {
       "title": "Lab 7",
