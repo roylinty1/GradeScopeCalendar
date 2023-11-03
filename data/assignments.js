@@ -190,8 +190,8 @@ assignments = {
       "title": "Project Progress report",
       "course": "INDENG 174",
       "dueDate": "2023-11-02T23:00:00",
-      "link": "https://www.gradescope.com/courses/585118",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/585118/assignments/3329858/submissions/209047586",
+      "submitted": true
     },
     {
       "title": "Project Draft Report",
