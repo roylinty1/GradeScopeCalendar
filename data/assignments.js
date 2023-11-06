@@ -239,15 +239,15 @@ assignments = {
       "title": "Assignment 2 (report)",
       "course": "INDENG 174",
       "dueDate": "2023-11-09T23:00:00",
-      "link": "https://www.gradescope.com/courses/585118",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/585118/assignments/3606619/submissions/209703994",
+      "submitted": true
     },
     {
       "title": "Assignment 2 (simio file)",
       "course": "INDENG 174",
       "dueDate": "2023-11-09T23:00:00",
-      "link": "https://www.gradescope.com/courses/585118",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/585118/assignments/3606633/submissions/209704188",
+      "submitted": true
     }
   ]
 };
