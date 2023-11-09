@@ -90,6 +90,13 @@ assignments = {
       "dueDate": "2023-11-28T23:59:00",
       "link": "https://www.gradescope.com/courses/573841",
       "submitted": false
+    },
+    {
+      "title": "Lab 10",
+      "course": "DATA 88E",
+      "dueDate": "2023-11-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/573841",
+      "submitted": false
     }
   ],
   "IEOR 166": [
