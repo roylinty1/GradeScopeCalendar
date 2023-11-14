@@ -173,7 +173,7 @@ assignments = {
     {
       "title": "PS 10",
       "course": "IEOR 166",
-      "dueDate": "2023-11-16T09:00:00",
+      "dueDate": "2023-11-18T09:00:00",
       "link": "https://www.gradescope.com/courses/563079",
       "submitted": false
     }
