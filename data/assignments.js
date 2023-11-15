@@ -174,8 +174,8 @@ assignments = {
       "title": "PS 10",
       "course": "IEOR 166",
       "dueDate": "2023-11-18T09:00:00",
-      "link": "https://www.gradescope.com/courses/563079",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/563079/assignments/3673184/submissions/212755273",
+      "submitted": true
     }
   ],
   "INDENG 174": [
