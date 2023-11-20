@@ -183,6 +183,20 @@ assignments = {
       "dueDate": "2023-11-30T09:00:00",
       "link": "https://www.gradescope.com/courses/563079",
       "submitted": false
+    },
+    {
+      "title": "PS 13",
+      "course": "IEOR 166",
+      "dueDate": "2023-12-07T09:00:00",
+      "link": "https://www.gradescope.com/courses/563079",
+      "submitted": false
+    },
+    {
+      "title": "PS 14",
+      "course": "IEOR 166",
+      "dueDate": "2023-12-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/563079",
+      "submitted": false
     }
   ],
   "INDENG 174": [
