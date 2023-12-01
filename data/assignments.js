@@ -187,7 +187,7 @@ assignments = {
     {
       "title": "PS 11&12",
       "course": "IEOR 166",
-      "dueDate": "2023-11-30T09:00:00",
+      "dueDate": "2023-11-30T23:59:00",
       "link": "https://www.gradescope.com/courses/563079/assignments/3702188/submissions/216250102",
       "submitted": true
     },
