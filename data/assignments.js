@@ -101,7 +101,7 @@ assignments = {
     {
       "title": "Lab 11",
       "course": "DATA 88E",
-      "dueDate": "2023-12-05T23:59:00",
+      "dueDate": "2023-12-06T23:59:00",
       "link": "https://www.gradescope.com/courses/573841/assignments/3733483/submissions/216015150",
       "submitted": true
     }
