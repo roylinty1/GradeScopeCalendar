@@ -246,8 +246,8 @@ assignments = {
       "title": "Project Final Report",
       "course": "INDENG 174",
       "dueDate": "2023-12-16T23:00:00",
-      "link": "https://www.gradescope.com/courses/585118",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/585118/assignments/3329863/submissions/220380086",
+      "submitted": true
     },
     {
       "title": "Assignment 1, Deliverable 2 (report+pdf of your code)",
