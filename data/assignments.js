@@ -13,7 +13,7 @@ assignments = {
       "title": "Assignment 1",
       "course": "INDENG 164",
       "dueDate": "2024-01-31T23:00:00",
-      "link": "https://www.gradescope.com/courses/693508/assignments/3998523/submissions/225785368",
+      "link": "https://www.gradescope.com/courses/693508/assignments/3998523/submissions/226202950",
       "submitted": true
     }
   ]
