@@ -27,8 +27,8 @@ assignments = {
       "title": "Assignment 2",
       "course": "INDENG 164",
       "dueDate": "2024-02-07T23:00:00",
-      "link": "https://www.gradescope.com/courses/693508",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/693508/assignments/4033874/submissions/227223749",
+      "submitted": true
     }
   ]
 };
