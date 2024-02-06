@@ -11,7 +11,7 @@ assignments = {
       "title": "Homework 2",
       "course": "IEOR 156",
       "dueDate": "2024-02-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/719070/assignments/4034396/submissions/227552124",
+      "link": "https://www.gradescope.com/courses/719070/assignments/4034396/submissions/228145610",
       "submitted": true
     }
   ],
