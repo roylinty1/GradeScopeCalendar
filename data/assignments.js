@@ -44,5 +44,21 @@ assignments = {
       "link": "https://www.gradescope.com/courses/693508",
       "submitted": false
     }
+  ],
+  "INDENG C253": [
+    {
+      "title": "Case Report",
+      "course": "INDENG C253",
+      "dueDate": "2024-02-28T17:00:00",
+      "link": "https://www.gradescope.com/courses/711797",
+      "submitted": false
+    },
+    {
+      "title": "Homework 1",
+      "course": "INDENG C253",
+      "dueDate": "2024-02-12T17:00:00",
+      "link": "https://www.gradescope.com/courses/711797/assignments/3986078/submissions/229273461",
+      "submitted": true
+    }
   ]
 };
