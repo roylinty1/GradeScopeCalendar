@@ -41,8 +41,8 @@ assignments = {
       "title": "Assignment 3",
       "course": "INDENG 164",
       "dueDate": "2024-02-14T23:00:00",
-      "link": "https://www.gradescope.com/courses/693508",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/693508/assignments/4071459/submissions/229701004",
+      "submitted": true
     }
   ],
   "INDENG C253": [
