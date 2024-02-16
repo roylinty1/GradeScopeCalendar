@@ -20,6 +20,13 @@ assignments = {
       "dueDate": "2024-02-15T23:59:00",
       "link": "https://www.gradescope.com/courses/719070/assignments/4076942/submissions/230408534",
       "submitted": true
+    },
+    {
+      "title": "Homework 4",
+      "course": "IEOR 156",
+      "dueDate": "2024-02-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/719070",
+      "submitted": false
     }
   ],
   "INDENG 164": [
