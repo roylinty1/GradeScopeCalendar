@@ -77,7 +77,7 @@ assignments = {
     {
       "title": "Homework 2",
       "course": "INDENG C253",
-      "dueDate": "2024-03-04T17:00:00",
+      "dueDate": "2024-03-11T17:00:00",
       "link": "https://www.gradescope.com/courses/711797",
       "submitted": false
     }
