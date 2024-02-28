@@ -71,8 +71,8 @@ assignments = {
       "title": "Case Report",
       "course": "INDENG C253",
       "dueDate": "2024-02-28T17:00:00",
-      "link": "https://www.gradescope.com/courses/711797",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711797/assignments/3957584/submissions/234748871",
+      "submitted": true
     },
     {
       "title": "Homework 1",
