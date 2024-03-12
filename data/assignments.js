@@ -115,6 +115,13 @@ assignments = {
       "dueDate": "2024-03-11T17:00:00",
       "link": "https://www.gradescope.com/courses/711797/assignments/4094860/submissions/237725359",
       "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "INDENG C253",
+      "dueDate": "2024-04-01T17:00:00",
+      "link": "https://www.gradescope.com/courses/711797",
+      "submitted": false
     }
   ]
 };
