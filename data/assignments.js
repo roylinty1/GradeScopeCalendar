@@ -120,6 +120,13 @@ assignments = {
       "dueDate": "2024-04-10T23:00:00",
       "link": "https://www.gradescope.com/courses/693508",
       "submitted": false
+    },
+    {
+      "title": "mini-project",
+      "course": "INDENG 164",
+      "dueDate": "2024-05-03T23:00:00",
+      "link": "https://www.gradescope.com/courses/693508",
+      "submitted": false
     }
   ],
   "INDENG C253": [
