@@ -155,8 +155,8 @@ assignments = {
       "title": "Homework 3",
       "course": "INDENG C253",
       "dueDate": "2024-04-08T17:00:00",
-      "link": "https://www.gradescope.com/courses/711797",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/711797/assignments/4224331/submissions/244565434",
+      "submitted": true
     }
   ]
 };
