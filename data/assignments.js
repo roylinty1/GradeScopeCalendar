@@ -141,6 +141,13 @@ assignments = {
       "dueDate": "2024-05-01T23:00:00",
       "link": "https://www.gradescope.com/courses/693508/assignments/4396669/submissions/250726915",
       "submitted": true
+    },
+    {
+      "title": "Final Exam",
+      "course": "INDENG 164",
+      "dueDate": "2024-05-06T20:10:00",
+      "link": "https://www.gradescope.com/courses/693508/assignments/4452861/submissions/252708903",
+      "submitted": true
     }
   ],
   "INDENG C253": [
