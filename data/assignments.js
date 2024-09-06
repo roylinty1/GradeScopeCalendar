@@ -1,5 +1,13 @@
 assignments = {
-  "IEOR 262A": [],
+  "IEOR 262A": [
+    {
+      "title": "Homework 1",
+      "course": "IEOR 262A",
+      "dueDate": "2024-09-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/856532",
+      "submitted": false
+    }
+  ],
   "IEOR 263A": [
     {
       "title": "Problem Set 1",
