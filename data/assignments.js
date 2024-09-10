@@ -20,8 +20,8 @@ assignments = {
       "title": "Problem Set 2",
       "course": "IEOR 263A",
       "dueDate": "2024-09-12T12:30:00",
-      "link": "https://www.gradescope.com/courses/824022",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/824022/assignments/4924703/submissions/266064603",
+      "submitted": true
     }
   ]
 };
