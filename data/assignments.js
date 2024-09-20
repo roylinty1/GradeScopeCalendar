@@ -6,6 +6,13 @@ assignments = {
       "dueDate": "2024-09-16T23:59:00",
       "link": "https://www.gradescope.com/courses/856532/assignments/4908304/submissions/266436945",
       "submitted": true
+    },
+    {
+      "title": "Homework 2",
+      "course": "IEOR 262A",
+      "dueDate": "2024-09-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/856532",
+      "submitted": false
     }
   ],
   "IEOR 263A": [
