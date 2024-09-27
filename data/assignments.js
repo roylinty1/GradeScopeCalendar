@@ -43,6 +43,13 @@ assignments = {
       "dueDate": "2024-09-26T12:30:00",
       "link": "https://www.gradescope.com/courses/824022/assignments/5012941/submissions/271475688",
       "submitted": true
+    },
+    {
+      "title": "Problem Set 5",
+      "course": "IEOR 263A",
+      "dueDate": "2024-10-03T12:30:00",
+      "link": "https://www.gradescope.com/courses/824022",
+      "submitted": false
     }
   ]
 };
