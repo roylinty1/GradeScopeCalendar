@@ -127,6 +127,13 @@ assignments = {
       "dueDate": "2024-12-05T12:30:00",
       "link": "https://www.gradescope.com/courses/824022/assignments/5365844/submissions/293940973",
       "submitted": true
+    },
+    {
+      "title": "Assignment 13A",
+      "course": "IEOR 263A",
+      "dueDate": "2024-12-10T12:30:00",
+      "link": "https://www.gradescope.com/courses/824022",
+      "submitted": false
     }
   ]
 };
