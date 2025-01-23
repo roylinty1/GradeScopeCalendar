@@ -1,4 +1,5 @@
 assignments = {
+  "IEOR 267": [],
   "INDENG 290-LEC-003": [
     {
       "title": "HW 1",
