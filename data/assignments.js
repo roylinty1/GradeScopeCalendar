@@ -4,8 +4,8 @@ assignments = {
       "title": "Problem Set 1",
       "course": "IEOR 267",
       "dueDate": "2025-01-30T11:00:00",
-      "link": "https://www.gradescope.com/courses/965785",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/965785/assignments/5662405/submissions/303063538",
+      "submitted": true
     }
   ],
   "INDENG 290-LEC-003": [
