@@ -6,6 +6,13 @@ assignments = {
       "dueDate": "2025-01-30T11:00:00",
       "link": "https://www.gradescope.com/courses/965785/assignments/5662405/submissions/303063538",
       "submitted": true
+    },
+    {
+      "title": "Problem Set 2",
+      "course": "IEOR 267",
+      "dueDate": "2025-02-06T11:00:00",
+      "link": "https://www.gradescope.com/courses/965785",
+      "submitted": false
     }
   ],
   "INDENG 290-LEC-003": [
