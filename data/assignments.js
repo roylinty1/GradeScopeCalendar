@@ -15,7 +15,22 @@ assignments = {
       "submitted": true
     }
   ],
-  "INDENG 231": [],
+  "INDENG 231": [
+    {
+      "title": "Assignment 1 (PDF)",
+      "course": "INDENG 231",
+      "dueDate": "2025-02-27T23:00:00",
+      "link": "https://www.gradescope.com/courses/977530",
+      "submitted": false
+    },
+    {
+      "title": "Assignment 1 (source code)",
+      "course": "INDENG 231",
+      "dueDate": "2025-02-27T23:00:00",
+      "link": "https://www.gradescope.com/courses/977530",
+      "submitted": false
+    }
+  ],
   "INDENG 290-LEC-003": [
     {
       "title": "HW 1",
