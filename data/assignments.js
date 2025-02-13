@@ -17,7 +17,7 @@ assignments = {
     {
       "title": "Problem Set 3",
       "course": "IEOR 267",
-      "dueDate": "2025-02-13T11:00:00",
+      "dueDate": "2025-02-13T23:00:00",
       "link": "https://www.gradescope.com/courses/965785",
       "submitted": false
     }
