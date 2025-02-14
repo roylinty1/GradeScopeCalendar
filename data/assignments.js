@@ -50,7 +50,7 @@ assignments = {
       "title": "HW 1",
       "course": "INDENG 290-LEC-003",
       "dueDate": "2025-02-17T10:00:00",
-      "link": "https://www.gradescope.com/courses/961516/assignments/5655521/submissions/308569408",
+      "link": "https://www.gradescope.com/courses/961516/assignments/5655521/submissions/308655997",
       "submitted": true
     }
   ]
