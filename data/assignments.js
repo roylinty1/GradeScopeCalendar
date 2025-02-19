@@ -25,8 +25,8 @@ assignments = {
       "title": "Problem Set 4",
       "course": "IEOR 267",
       "dueDate": "2025-02-20T11:00:00",
-      "link": "https://www.gradescope.com/courses/965785",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/965785/assignments/5788101/submissions/309765079",
+      "submitted": true
     }
   ],
   "INDENG 231": [
