@@ -27,6 +27,13 @@ assignments = {
       "dueDate": "2025-02-20T11:00:00",
       "link": "https://www.gradescope.com/courses/965785/assignments/5788101/submissions/309765079",
       "submitted": true
+    },
+    {
+      "title": "Midterm Exam Question",
+      "course": "IEOR 267",
+      "dueDate": "2025-02-27T11:00:00",
+      "link": "https://www.gradescope.com/courses/965785",
+      "submitted": false
     }
   ],
   "INDENG 231": [
