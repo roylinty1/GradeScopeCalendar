@@ -54,14 +54,14 @@ assignments = {
     {
       "title": "Assignment 2 (source code)",
       "course": "INDENG 231",
-      "dueDate": "2025-02-27T23:00:00",
+      "dueDate": "2025-04-17T23:00:00",
       "link": "https://www.gradescope.com/courses/977530",
       "submitted": false
     },
     {
       "title": "Assignment 2 (Optional,PDF)",
       "course": "INDENG 231",
-      "dueDate": "2025-02-27T23:00:00",
+      "dueDate": "2025-04-17T23:00:00",
       "link": "https://www.gradescope.com/courses/977530",
       "submitted": false
     }
