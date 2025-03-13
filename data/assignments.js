@@ -41,6 +41,13 @@ assignments = {
       "dueDate": "2025-03-13T11:00:00",
       "link": "https://www.gradescope.com/courses/965785/assignments/5923328/submissions/316632116",
       "submitted": true
+    },
+    {
+      "title": "Problem Set 7",
+      "course": "IEOR 267",
+      "dueDate": "2025-03-20T11:00:00",
+      "link": "https://www.gradescope.com/courses/965785",
+      "submitted": false
     }
   ],
   "INDENG 231": [
