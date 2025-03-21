@@ -106,7 +106,7 @@ assignments = {
       "title": "Project Proposal",
       "course": "INDENG 290-LEC-003",
       "dueDate": "2025-03-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/961516/assignments/5918367/submissions/318711242",
+      "link": "https://www.gradescope.com/courses/961516/assignments/5918367/submissions/318908052",
       "submitted": true
     },
     {
