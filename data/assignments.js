@@ -115,6 +115,13 @@ assignments = {
       "dueDate": "2025-03-31T10:00:00",
       "link": "https://www.gradescope.com/courses/961516/assignments/5930983/submissions/318709550",
       "submitted": true
+    },
+    {
+      "title": "HW 4",
+      "course": "INDENG 290-LEC-003",
+      "dueDate": "2025-04-16T10:00:00",
+      "link": "https://www.gradescope.com/courses/961516",
+      "submitted": false
     }
   ]
 };
