@@ -90,8 +90,8 @@ assignments = {
       "title": "Assignment 2 (source code)",
       "course": "INDENG 231",
       "dueDate": "2025-04-17T23:00:00",
-      "link": "https://www.gradescope.com/courses/977530",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/977530/assignments/5896930/submissions/324712078",
+      "submitted": true
     },
     {
       "title": "Assignment 2 (Optional,PDF)",
